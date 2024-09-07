@@ -1,0 +1,47 @@
+
+INSERT INTO HealthcareProfessional (Name, Email, PhoneNumber, Role, Specialization, YearsOfExperience, Facility, HoursOfWork, PatientsPerDay)
+VALUES
+('Dr. John Smith', 'john.smith@healthcare.com', '555-1234', 'Doctor', 'Cardiology', 10, 'City Hospital', 40, 250),
+('Nurse Jane Doe', 'jane.doe@healthcare.com', '555-5678', 'Nurse', 'Pediatrics', 5, 'City Hospital', 36, 180),
+('Mark Lee', 'mark.lee@healthcare.com', '555-1112', 'Technician', 'Radiology', 7, 'City Hospital', 38, 150),
+('Sarah Johnson', 'sarah.johnson@healthcare.com', '555-9101', 'Administrator', NULL, 8, 'Downtown Clinic', 40, 0),
+('Dr. Alice Cooper', 'alice.cooper@healthcare.com', '555-2211', 'Doctor', 'Dermatology', 15, 'Suburban Health Center', 42, 220),
+('Nurse Laura White', 'laura.white@healthcare.com', '555-3322', 'Nurse', 'Oncology', 9, 'Downtown Clinic', 36, 200),
+('Technician Tim Brown', 'tim.brown@healthcare.com', '555-4412', 'Technician', 'MRI', 4, 'City Hospital', 38, 0),
+('Administrator Bob Green', 'bob.green@healthcare.com', '555-5123', 'Administrator', NULL, 12, 'General Hospital', 40, 0),
+('Dr. Emma Davis', 'emma.davis@healthcare.com', '555-6234', 'Doctor', 'Neurology', 20, 'Suburban Health Center', 45, 270),
+('Nurse Clara Wilson', 'clara.wilson@healthcare.com', '555-7456', 'Nurse', 'Cardiology', 6, 'City Hospital', 36, 190),
+('Dr. Jack Miller', 'jack.miller@healthcare.com', '555-8899', 'Doctor', 'Orthopedics', 18, 'Downtown Clinic', 44, 260),
+('Technician Oliver Adams', 'oliver.adams@healthcare.com', '555-2020', 'Technician', 'Ultrasound', 5, 'General Hospital', 40, 0),
+('Nurse Kelly Baker', 'kelly.baker@healthcare.com', '555-3131', 'Nurse', 'General', 7, 'Downtown Clinic', 36, 175),
+('Administrator David King', 'david.king@healthcare.com', '555-4242', 'Administrator', NULL, 10, 'Suburban Health Center', 40, 0),
+('Dr. Sophia Taylor', 'sophia.taylor@healthcare.com', '555-5353', 'Doctor', 'Pediatrics', 13, 'General Hospital', 42, 240),
+('Nurse Mia Harris', 'mia.harris@healthcare.com', '555-6464', 'Nurse', 'Dermatology', 3, 'City Hospital', 36, 160),
+('Technician Ethan Clark', 'ethan.clark@healthcare.com', '555-7575', 'Technician', 'X-ray', 2, 'Suburban Health Center', 38, 0),
+('Dr. Liam Walker', 'liam.walker@healthcare.com', '555-8686', 'Doctor', 'Oncology', 22, 'City Hospital', 45, 280),
+('Nurse Ava Young', 'ava.young@healthcare.com', '555-9797', 'Nurse', 'Orthopedics', 6, 'General Hospital', 36, 170),
+('Technician Noah Wright', 'noah.wright@healthcare.com', '555-1010', 'Technician', 'CT Scan', 4, 'Downtown Clinic', 38, 0),
+('Dr. Michael Harris', 'michael.harris@healthcare.com', '555-1113', 'Doctor', 'Gastroenterology', 25, 'Suburban Health Center', 40, 260),
+('Nurse Sophie Evans', 'sophie.evans@healthcare.com', '555-2224', 'Nurse', 'General', 8, 'General Hospital', 36, 180),
+('Dr. Henry Scott', 'henry.scott@healthcare.com', '555-3335', 'Doctor', 'Urology', 16, 'City Hospital', 42, 230),
+('Technician Emily Turner', 'emily.turner@healthcare.com', '555-4446', 'Technician', 'Dialysis', 3, 'Downtown Clinic', 38, 0),
+('Administrator Paul Carter', 'paul.carter@healthcare.com', '555-5557', 'Administrator', NULL, 14, 'General Hospital', 40, 0),
+('Dr. Olivia Martin', 'olivia.martin@healthcare.com', '555-6668', 'Doctor', 'Dermatology', 18, 'City Hospital', 44, 250),
+('Nurse Chloe Clark', 'chloe.clark@healthcare.com', '555-7779', 'Nurse', 'Pediatrics', 10, 'Downtown Clinic', 36, 190),
+('Technician Ryan Moore', 'ryan.moore@healthcare.com', '555-8880', 'Technician', 'Pathology', 4, 'General Hospital', 38, 0),
+('Dr. Joshua Anderson', 'joshua.anderson@healthcare.com', '555-9991', 'Doctor', 'Cardiology', 20, 'Suburban Health Center', 40, 240),
+('Nurse Lily Johnson', 'lily.johnson@healthcare.com', '555-1012', 'Nurse', 'Orthopedics', 12, 'General Hospital', 36, 185),
+('Technician Jacob Lewis', 'jacob.lewis@healthcare.com', '555-2023', 'Technician', 'Anesthesiology', 5, 'City Hospital', 38, 0),
+('Dr. Amelia Robinson', 'amelia.robinson@healthcare.com', '555-3034', 'Doctor', 'Oncology', 30, 'General Hospital', 45, 300),
+('Nurse Grace Hall', 'grace.hall@healthcare.com', '555-4045', 'Nurse', 'Oncology', 6, 'Downtown Clinic', 36, 160),
+('Technician David Lee', 'david.lee@healthcare.com', '555-5056', 'Technician', 'Radiology', 7, 'Suburban Health Center', 38, 0),
+('Administrator Emily Clark', 'emily.clark@healthcare.com', '555-6067', 'Administrator', NULL, 10, 'General Hospital', 40, 0),
+('Dr. William King', 'william.king@healthcare.com', '555-7078', 'Doctor', 'Cardiology', 22, 'City Hospital', 44, 275),
+('Nurse Olivia Adams', 'olivia.adams@healthcare.com', '555-8089', 'Nurse', 'Pediatrics', 5, 'Downtown Clinic', 36, 150),
+('Technician Liam Walker', 'liam.walker@healthcare.com', '555-9090', 'Technician', 'Ultrasound', 2, 'Suburban Health Center', 38, 0),
+('Dr. Ava Baker', 'ava.baker@healthcare.com', '555-1121', 'Doctor', 'Neurology', 17, 'City Hospital', 42, 220),
+('Nurse Mia White', 'mia.white@healthcare.com', '555-2232', 'Nurse', 'General', 9, 'General Hospital', 36, 175);
+
+
+
+
